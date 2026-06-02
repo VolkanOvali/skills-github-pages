@@ -1,3 +1,5 @@
 ---
-title: Welcome to my blog!
+Başlık: Eğitim Sayfasına Hoşgeldiniz!
 ---
+
+### 3. Seviye
